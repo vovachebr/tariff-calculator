@@ -2,8 +2,10 @@
   "name": "tariff-calculator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vovachebr.github.io/tariff-calculator/",
   "dependencies": {
-    "electron": "^5.0.1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^6.0.0",
