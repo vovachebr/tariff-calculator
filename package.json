@@ -2,7 +2,7 @@
   "name": "tariff-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vovachebr.github.io/tariff-calculator/",
+  "homepage": "https://vovachebr.github.io/tariff-calculator/home",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
