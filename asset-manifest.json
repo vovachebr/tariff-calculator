@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tariff-calculator/static/css/main.f38df63f.chunk.css",
-    "main.js": "/tariff-calculator/static/js/main.51ad4a73.chunk.js",
-    "main.js.map": "/tariff-calculator/static/js/main.51ad4a73.chunk.js.map",
-    "runtime~main.js": "/tariff-calculator/static/js/runtime~main.92dfc0c4.js",
-    "runtime~main.js.map": "/tariff-calculator/static/js/runtime~main.92dfc0c4.js.map",
-    "static/js/2.fd67cd4a.chunk.js": "/tariff-calculator/static/js/2.fd67cd4a.chunk.js",
-    "static/js/2.fd67cd4a.chunk.js.map": "/tariff-calculator/static/js/2.fd67cd4a.chunk.js.map",
-    "index.html": "/tariff-calculator/index.html",
-    "precache-manifest.fd5132d0b1616617ab3370931121b5e7.js": "/tariff-calculator/precache-manifest.fd5132d0b1616617ab3370931121b5e7.js",
-    "service-worker.js": "/tariff-calculator/service-worker.js",
-    "static/css/main.f38df63f.chunk.css.map": "/tariff-calculator/static/css/main.f38df63f.chunk.css.map",
-    "static/media/logo.svg": "/tariff-calculator/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/tariff-calculator/home/static/css/main.f38df63f.chunk.css",
+    "main.js": "/tariff-calculator/home/static/js/main.bc805ce0.chunk.js",
+    "main.js.map": "/tariff-calculator/home/static/js/main.bc805ce0.chunk.js.map",
+    "runtime~main.js": "/tariff-calculator/home/static/js/runtime~main.c60038e9.js",
+    "runtime~main.js.map": "/tariff-calculator/home/static/js/runtime~main.c60038e9.js.map",
+    "static/js/2.fd67cd4a.chunk.js": "/tariff-calculator/home/static/js/2.fd67cd4a.chunk.js",
+    "static/js/2.fd67cd4a.chunk.js.map": "/tariff-calculator/home/static/js/2.fd67cd4a.chunk.js.map",
+    "index.html": "/tariff-calculator/home/index.html",
+    "precache-manifest.485368c2bc1f3a4c304b383f675701be.js": "/tariff-calculator/home/precache-manifest.485368c2bc1f3a4c304b383f675701be.js",
+    "service-worker.js": "/tariff-calculator/home/service-worker.js",
+    "static/css/main.f38df63f.chunk.css.map": "/tariff-calculator/home/static/css/main.f38df63f.chunk.css.map",
+    "static/media/logo.svg": "/tariff-calculator/home/static/media/logo.ee7cd8ed.svg"
   }
 }
