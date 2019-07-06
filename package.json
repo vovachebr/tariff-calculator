@@ -4,8 +4,6 @@
   "private": true,
   "homepage": "https://vovachebr.github.io/tariff-calculator/",
   "dependencies": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^6.0.0",
@@ -19,7 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
   },
   "eslintConfig": {
     "extends": "react-app"
