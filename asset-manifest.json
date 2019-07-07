@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tariff-calculator/static/css/main.f38df63f.chunk.css",
-    "main.js": "/tariff-calculator/static/js/main.51ad4a73.chunk.js",
-    "main.js.map": "/tariff-calculator/static/js/main.51ad4a73.chunk.js.map",
+    "main.js": "/tariff-calculator/static/js/main.9202cbd8.chunk.js",
+    "main.js.map": "/tariff-calculator/static/js/main.9202cbd8.chunk.js.map",
     "runtime~main.js": "/tariff-calculator/static/js/runtime~main.92dfc0c4.js",
     "runtime~main.js.map": "/tariff-calculator/static/js/runtime~main.92dfc0c4.js.map",
     "static/js/2.fd67cd4a.chunk.js": "/tariff-calculator/static/js/2.fd67cd4a.chunk.js",
     "static/js/2.fd67cd4a.chunk.js.map": "/tariff-calculator/static/js/2.fd67cd4a.chunk.js.map",
     "index.html": "/tariff-calculator/index.html",
-    "precache-manifest.fd5132d0b1616617ab3370931121b5e7.js": "/tariff-calculator/precache-manifest.fd5132d0b1616617ab3370931121b5e7.js",
+    "precache-manifest.a74c25cbf983c6e7887e11a17d95c64b.js": "/tariff-calculator/precache-manifest.a74c25cbf983c6e7887e11a17d95c64b.js",
     "service-worker.js": "/tariff-calculator/service-worker.js",
     "static/css/main.f38df63f.chunk.css.map": "/tariff-calculator/static/css/main.f38df63f.chunk.css.map",
     "static/media/logo.svg": "/tariff-calculator/static/media/logo.ee7cd8ed.svg"

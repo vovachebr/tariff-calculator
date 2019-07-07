@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tariff-calculator/precache-manifest.fd5132d0b1616617ab3370931121b5e7.js"
+  "/tariff-calculator/precache-manifest.a74c25cbf983c6e7887e11a17d95c64b.js"
 );
 
 self.addEventListener('message', (event) => {

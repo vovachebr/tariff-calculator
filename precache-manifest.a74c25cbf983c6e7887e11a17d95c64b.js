@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afd392ab3696fe3dff36c2bab4b56aa7",
+    "revision": "c6c6559e644c1cdb2e669f314914d596",
     "url": "/tariff-calculator/index.html"
   },
   {
-    "revision": "79c3f0ac267f24ee8954",
+    "revision": "a5664c2f5e8b27928ea6",
     "url": "/tariff-calculator/static/css/main.f38df63f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tariff-calculator/static/js/2.fd67cd4a.chunk.js"
   },
   {
-    "revision": "79c3f0ac267f24ee8954",
-    "url": "/tariff-calculator/static/js/main.51ad4a73.chunk.js"
+    "revision": "a5664c2f5e8b27928ea6",
+    "url": "/tariff-calculator/static/js/main.9202cbd8.chunk.js"
   },
   {
     "revision": "2adc600a9001da515c5d",
